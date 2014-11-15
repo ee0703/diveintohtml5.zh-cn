@@ -1,0 +1,4 @@
+[submodule "book"]
+	path = book
+	url = https://github.com/ee0703/diveintohtml5.zh-cn.git
+	branch = master
